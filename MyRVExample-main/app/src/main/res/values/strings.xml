@@ -17,37 +17,37 @@
         <item>STARIA</item>
     </string-array>
     <string-array name="specs_array">
-        <item>Hatchback \nPetrol \n1.0L / 1.2L / 1.4L \n5 Doors \n5 Seats \n5-Speed Manual / 6-Speed Automatic \n15" / 16" Alloy Wheels \nLED Daytime Running Lights \nRear Parking Sensors \n8-inch Touchscreen \nApple CarPlay / Android Auto \nBluetooth Connectivity \nSmart Key \nCruise Control\n</item>
-        <item>Hatchback \nPetrol/Diesel \n1.0L T-GDI / 1.5L / 1.6L CRDi \n5 Doors \n5 Seats \n6-Speed Manual / 7-Speed Automatic \n16" / 17" Alloy Wheels \nLED Headlights \nRear Parking Sensors \n8-inch / 10.25-inch Touchscreen \nApple CarPlay / Android Auto \nWireless Charging \nBlind Spot Detection \nRear Cross-Traffic Collision Avoidance\n</item>
-        <item>Sedan \nPetrol \n1.6L / 2.0L \n4 Doors \n5 Seats \n6-Speed Manual / 6-Speed Automatic \n17" Alloy Wheels \nLED Headlights \nLane Keep Assist \nAutonomous Emergency Braking \n10.25-inch Touchscreen \nApple CarPlay / Android Auto \nWireless Charging \nDigital Instrument Cluster \nForward Collision Avoidance Assist\n</item>
-        <item>Hatchback (N Model) \nPetrol \n1.6L Turbocharged \n5 Doors \n5 Seats \n6-Speed Manual \n18" Alloy Wheels \nLED Daytime Running Lights \nN Sports Seats \nDual Exhaust System \nPerformance-Oriented Suspension \nLaunch Control \nAdaptive Cruise Control \n8-inch Touchscreen \nApple CarPlay / Android Auto\n</item>
-        <item>SUV \nPetrol \n1.0L / 1.2L / 1.6L \n5 Doors \n5 Seats \n6-Speed Manual / 6-Speed Automatic \n16" / 17" Alloy Wheels \nLED Daytime Running Lights \nRear Parking Sensors \n8-inch Touchscreen \nApple CarPlay / Android Auto \nWireless Charging \nLane Assist \nHill Start Assist Control\n</item>
-        <item>SUV \nPetrol \n1.5L / 1.6L Turbocharged \n5 Doors \n5 Seats \n6-Speed Manual / 7-Speed Automatic \n17" / 18" Alloy Wheels \nFull LED Headlights \nRear Parking Sensors \n10.25-inch Touchscreen \nApple CarPlay / Android Auto \nWireless Charging \nLane Keep Assist \nForward Collision Avoidance\n</item>
-        <item>SUV \nHybrid \n1.6L Hybrid \n5 Doors \n5 Seats \n6-Speed Automatic \n17" Alloy Wheels \nLED Daytime Running Lights \nRear Parking Sensors \n10.25-inch Touchscreen \nApple CarPlay / Android Auto \nWireless Charging \nBlind Spot Detection \nRear Cross-Traffic Collision Avoidance\n</item>
-        <item>SUV \nPetrol/Diesel \n1.6L / 2.0L \n5 Doors \n5 Seats \n6-Speed Manual / 7-Speed Automatic \n18" Alloy Wheels \nLED Headlights \nAdaptive Cruise Control \nRear Parking Sensors \n10.25-inch Touchscreen \nApple CarPlay / Android Auto \nWireless Charging \nLane Keep Assist \nForward Collision Avoidance\n</item>
-        <item>SUV \nHybrid \n1.6L Hybrid \n5 Doors \n5 Seats \n6-Speed Automatic \n18" Alloy Wheels \nLED Headlights \nRear Parking Sensors \n10.25-inch Touchscreen \nApple CarPlay / Android Auto \nWireless Charging \nBlind Spot Detection \nRear Cross-Traffic Collision Avoidance\n</item>
-        <item>SUV \nHybrid \n1.6L Hybrid \n5 Doors \n5 Seats \n6-Speed Automatic \n18" Alloy Wheels \nLED Headlights \nRear Parking Sensors \n10.25-inch Touchscreen \nApple CarPlay / Android Auto \nWireless Charging \nBlind Spot Detection \nLane Keep Assist\n</item>
-        <item>Electric SUV \nElectric \n64.8 kWh \n5 Doors \n5 Seats \nAutomatic \n19" Alloy Wheels \nLED Headlights \n12.3-inch Digital Display \nLane Keeping Assist \nForward Collision-Avoidance Assist \nWireless Charging \n8-inch Touchscreen \nApple CarPlay / Android Auto \nRegenerative Braking \nElectric Power Steering\n</item>
-        <item>Electric Sedan \nElectric \n58 kWh / 77.4 kWh \n4 Doors \n5 Seats \nAutomatic \n18" / 19" Alloy Wheels \nFull LED Headlights \n12.3-inch Digital Display \nLane Keeping Assist \nForward Collision Avoidance Assist \nWireless Charging \n8-inch Touchscreen \nApple CarPlay / Android Auto \nRegenerative Braking \nElectric Power Steering\n</item>
-        <item>Electric Sedan \nElectric \n77.4 kWh \n4 Doors \n5 Seats \nAutomatic \n20" Alloy Wheels \nFull LED Headlights \nLane Keep Assist \nBlind Spot Detection \nForward Collision-Avoidance Assist \nWireless Charging \n12.3-inch Digital Display \nApple CarPlay / Android Auto \nRegenerative Braking\n</item>
-        <item>Commercial Vehicle \nPetrol/Diesel \n2.2L / 2.5L \n5 Doors \n7-9 Seats \n6-Speed Manual / 8-Speed Automatic \n16" / 17" Alloy Wheels \nLED Daytime Running Lights \nRear Parking Sensors \n8-inch Touchscreen \nApple CarPlay / Android Auto \nWireless Charging \nLane Assist \nBlind Spot Detection\n</item>
+        <item> • 1.0L / 1.2L / 1.4L \n • 5 Doors \n • 5 Seats \n • 5-Speed Manual / 6-Speed Automatic \n • 15" / 16" Alloy Wheels \n • LED Daytime Running Lights \n • Rear Parking Sensors \n • 8-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Bluetooth Connectivity \n • Smart Key \n • Cruise Control\n</item>
+        <item> • 1.0L T-GDI / 1.5L / 1.6L CRDi \n • 5 Doors \n • 5 Seats \n • 6-Speed Manual / 7-Speed Automatic \n • 16" / 17" Alloy Wheels \n • LED Headlights \n • Rear Parking Sensors \n • 8-inch / 10.25-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Wireless Charging \n • Blind Spot Detection \n • Rear Cross-Traffic Collision Avoidance\n</item>
+        <item> • 1.6L / 2.0L \n • 4 Doors \n • 5 Seats \n • 6-Speed Manual / 6-Speed Automatic \n • 17" Alloy Wheels \n • LED Headlights \n • Lane Keep Assist \n • Autonomous Emergency Braking \n • 10.25-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Wireless Charging \n • Digital Instrument Cluster \n • Forward Collision Avoidance Assist\n</item>
+        <item> • 1.6L Turbocharged \n • 5 Doors \n • 5 Seats \n • 6-Speed Manual \n • 18" Alloy Wheels \n • LED Daytime Running Lights \n • N Sports Seats \n • Dual Exhaust System \n • Performance-Oriented Suspension \n • Launch Control \n • Adaptive Cruise Control \n • 8-inch Touchscreen \n • Apple CarPlay / Android Auto\n</item>
+        <item> • 1.0L / 1.2L / 1.6L \n • 5 Doors \n • 5 Seats \n • 6-Speed Manual / 6-Speed Automatic \n • 16" / 17" Alloy Wheels \n • LED Daytime Running Lights \n • Rear Parking Sensors \n • 8-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Wireless Charging \n • Lane Assist \n • Hill Start Assist Control\n</item>
+        <item> • 1.5L / 1.6L Turbocharged \n • 5 Doors \n • 5 Seats \n • 6-Speed Manual / 7-Speed Automatic \n • 17" / 18" Alloy Wheels \n • Full LED Headlights \n • Rear Parking Sensors \n • 10.25-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Wireless Charging \n • Lane Keep Assist \n • Forward Collision Avoidance\n</item>
+        <item> • 1.6L Hybrid \n • 5 Doors \n • 5 Seats \n • 6-Speed Automatic \n • 17" Alloy Wheels \n • LED Daytime Running Lights \n • Rear Parking Sensors \n • 10.25-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Wireless Charging \n • Blind Spot Detection \n • Rear Cross-Traffic Collision Avoidance\n</item>
+        <item> • 1.6L / 2.0L \n • 5 Doors \n • 5 Seats \n • 6-Speed Manual / 7-Speed Automatic \n • 18" Alloy Wheels \n • LED Headlights \n • Adaptive Cruise Control \n • Rear Parking Sensors \n • 10.25-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Wireless Charging \n • Lane Keep Assist \n • Forward Collision Avoidance\n</item>
+        <item> • 1.6L Hybrid \n • 5 Doors \n • 5 Seats \n • 6-Speed Automatic \n • 18" Alloy Wheels \n • LED Headlights \n • Rear Parking Sensors \n • 10.25-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Wireless Charging \n • Blind Spot Detection \n • Rear Cross-Traffic Collision Avoidance\n</item>
+        <item> • 1.6L Hybrid \n • 5 Doors \n • 5 Seats \n • 6-Speed Automatic \n • 18" Alloy Wheels \n • LED Headlights \n • Rear Parking Sensors \n • 10.25-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Wireless Charging \n • Blind Spot Detection \n • Lane Keep Assist\n</item>
+        <item> • 64.8 kWh \n • 5 Doors \n • 5 Seats \n • Automatic \n • 19" Alloy Wheels \n • LED Headlights \n • 12.3-inch Digital Display \n • Lane Keeping Assist \n • Forward Collision-Avoidance Assist \n • Wireless Charging \n • 8-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Regenerative Braking \n • Electric Power Steering\n</item>
+        <item> • 58 kWh / 77.4 kWh \n • 4 Doors \n • 5 Seats \n • Automatic \n • 18" / 19" Alloy Wheels \n • Full LED Headlights \n • 12.3-inch Digital Display \n • Lane Keeping Assist \n • Forward Collision Avoidance Assist \n • Wireless Charging \n • 8-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Regenerative Braking \n • Electric Power Steering\n</item>
+        <item> • 77.4 kWh \n • 4 Doors \n • 5 Seats \n • Automatic \n • 20" Alloy Wheels \n • Full LED Headlights \n • Lane Keep Assist \n • Blind Spot Detection \n • Forward Collision-Avoidance Assist \n • Wireless Charging \n • 12.3-inch Digital Display \n • Apple CarPlay / Android Auto \n • Regenerative Braking\n</item>
+        <item> • 2.2L / 2.5L \n • 5 Doors \n • 7-9 Seats \n • 6-Speed Manual / 8-Speed Automatic \n • 16" / 17" Alloy Wheels \n • LED Daytime Running Lights \n • Rear Parking Sensors \n • 8-inch Touchscreen \n • Apple CarPlay / Android Auto \n • Wireless Charging \n • Lane Assist \n • Blind Spot Detection\n</item>
 
     </string-array>
     <string-array name="performance_array">
-        <item>Hatchback \nPetrol \n67-84 HP \n0-100 km/h: 10.4 sec \nTop Speed: 180 km/h\n</item>
-        <item>Hatchback \nPetrol/Diesel \n84-120 HP \n0-100 km/h: 9.0-10.5 sec \nTop Speed: 185-200 km/h\n</item>
-        <item>Sedan \nPetrol \n115-204 HP \n0-100 km/h: 7.0-9.4 sec \nTop Speed: 200 km/h\n</item>
-        <item>Hatchback (N Model) \nPetrol \n204 HP \n0-100 km/h: 6.2 sec \nTop Speed: 250 km/h\n</item>
-        <item>SUV \nPetrol \n100-120 HP \n0-100 km/h: 9.2 sec \nTop Speed: 190 km/h\n</item>
-        <item>SUV \nPetrol \n120-177 HP \n0-100 km/h: 7.9-10.5 sec \nTop Speed: 205 km/h\n</item>
-        <item>SUV \nHybrid \n141 HP \n0-100 km/h: 10.5 sec \nTop Speed: 180 km/h\n</item>
-        <item>SUV \nPetrol/Diesel \n150-230 HP \n0-100 km/h: 7.0-9.5 sec \nTop Speed: 210-220 km/h\n</item>
-        <item>SUV \nHybrid \n230 HP \n0-100 km/h: 8.5 sec \nTop Speed: 200 km/h\n</item>
-        <item>SUV \nHybrid \n230 HP \n0-100 km/h: 9.5 sec \nTop Speed: 200 km/h\n</item>
-        <item>Electric SUV \nElectric \n136 HP \n0-100 km/h: 9.7 sec \nTop Speed: 167 km/h\n</item>
-        <item>Electric Sedan \nElectric \n170-305 HP \n0-100 km/h: 5.2-8.5 sec \nTop Speed: 185 km/h\n</item>
-        <item>Electric Sedan \nElectric \n218-325 HP \n0-100 km/h: 5.1-7.4 sec \nTop Speed: 185 km/h\n</item>
-        <item>Commercial Vehicle \nPetrol/Diesel \n170-177 HP \n0-100 km/h: 12.0 sec \nTop Speed: 190 km/h\n</item>
+        <item>➤ Hatchback \n➤ Petrol \n➤ 67-84 HP \n➤ 0-100 km/h: 10.4 sec \n➤ Top Speed: 180 km/h\n</item>
+        <item>➤ Hatchback \n➤ Petrol/Diesel \n➤ 84-120 HP \n➤ 0-100 km/h: 9.0-10.5 sec \n➤ Top Speed: 185-200 km/h\n</item>
+        <item>➤ Sedan \n➤ Petrol \n➤ 115-204 HP \n➤ 0-100 km/h: 7.0-9.4 sec \n➤ Top Speed: 200 km/h\n</item>
+        <item>➤ Hatchback (N Model) \n➤ Petrol \n➤ 204 HP \n➤ 0-100 km/h: 6.2 sec \n➤ Top Speed: 250 km/h\n</item>
+        <item>➤ SUV \n➤ Petrol \n➤ 100-120 HP \n➤ 0-100 km/h: 9.2 sec \n➤ Top Speed: 190 km/h\n</item>
+        <item>➤ SUV \n➤ Petrol \n➤ 120-177 HP \n➤ 0-100 km/h: 7.9-10.5 sec \n➤ Top Speed: 205 km/h\n</item>
+        <item>➤ SUV \n➤ Hybrid \n➤ 141 HP \n➤ 0-100 km/h: 10.5 sec \n➤ Top Speed: 180 km/h\n</item>
+        <item>➤ SUV \n➤ Petrol/Diesel \n➤ 150-230 HP \n➤ 0-100 km/h: 7.0-9.5 sec \n➤ Top Speed: 210-220 km/h\n</item>
+        <item>➤ SUV \n➤ Hybrid \n➤ 230 HP \n➤ 0-100 km/h: 8.5 sec \n➤ Top Speed: 200 km/h\n</item>
+        <item>➤ SUV \n➤ Hybrid \n➤ 230 HP \n➤ 0-100 km/h: 9.5 sec \n➤ Top Speed: 200 km/h\n</item>
+        <item>➤ Electric SUV \n➤ Electric \n➤ 136 HP \n➤ 0-100 km/h: 9.7 sec \n➤ Top Speed: 167 km/h\n</item>
+        <item>➤ Electric Sedan \n➤ Electric \n➤ 170-305 HP \n➤ 0-100 km/h: 5.2-8.5 sec \n➤ Top Speed: 185 km/h\n</item>
+        <item>➤ Electric Sedan \n➤ Electric \n➤ 218-325 HP \n➤ 0-100 km/h: 5.1-7.4 sec \n➤ Top Speed: 185 km/h\n</item>
+        <item>➤ Commercial Vehicle \n➤ Petrol/Diesel \n➤ 170-177 HP \n➤ 0-100 km/h: 12.0 sec \n➤ Top Speed: 190 km/h\n</item>
 
     </string-array>
 </resources>
